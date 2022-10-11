@@ -3,10 +3,10 @@ owner: schoolgram # Your GitHub organization or username, where this repository 
 repo: uptime # The name of this repository
 
 sites:
-  - name: TCF SchoolGram
+  - name: TCF
     url: https://tcf.arbisoft.com
-#   - name: Wikipedia
-#     url: https://en.wikipedia.org
+  - name: Scholastic
+    url: https://scholastic.schoolgram.io
 #   - name: Hacker News
 #     url: https://news.ycombinator.com
 #   - name: Test Broken Site
