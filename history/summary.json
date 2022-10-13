@@ -4,18 +4,20 @@
     "url": "https://tcf.arbisoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/tcf.arbisoft.com.ico",
     "slug": "tcf-arbisoft-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 265,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
-    "dailyMinutesDown": {}
+    "time": 270,
+    "timeDay": 245,
+    "timeWeek": 270,
+    "timeMonth": 270,
+    "timeYear": 270,
+    "dailyMinutesDown": {
+      "2022-10-13": 0
+    }
   },
   {
     "name": "scholastic.schoolgram.io",
