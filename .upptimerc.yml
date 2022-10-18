@@ -7,8 +7,8 @@ sites:
     url: https://tcf.arbisoft.com
   - name: scholastic.schoolgram.io
     url: https://scholastic.schoolgram.io
-#   - name: Hacker News
-#     url: https://news.ycombinator.com
+  - name: ml.schoolgram.io
+    url: http://ml.schoolgram.io/
 #   - name: Test Broken Site
 #     url: https://thissitedoesnotexist.koj.co
 
