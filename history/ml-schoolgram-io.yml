@@ -1,7 +1,7 @@
 url: http://ml.schoolgram.io/
-status: down
-code: 502
-responseTime: 98
-lastUpdated: 2022-11-08T23:11:58.942Z
+status: up
+code: 200
+responseTime: 141
+lastUpdated: 2022-11-09T07:01:28.403Z
 startTime: Tue Oct 18 2022 12:36:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
