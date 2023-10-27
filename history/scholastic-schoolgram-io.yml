@@ -1,7 +1,7 @@
 url: https://scholastic.schoolgram.io
-status: up
-code: 200
-responseTime: 955
-lastUpdated: 2023-10-26T23:09:05.961Z
+status: down
+code: 500
+responseTime: 289
+lastUpdated: 2023-10-27T10:54:29.326Z
 startTime: 2022-10-11T16:36:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
