@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2024-02-19": 628,
+      "2024-02-19": 638,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
@@ -199,7 +199,7 @@
     "url": "https://scholastic.schoolgram.io",
     "icon": "https://icons.duckduckgo.com/ip3/scholastic.schoolgram.io.ico",
     "slug": "scholastic-schoolgram-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.89%",
     "uptimeWeek": "99.84%",
