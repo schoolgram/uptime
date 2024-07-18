@@ -11,8 +11,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
     "time": 711,
-    "timeDay": 758,
-    "timeWeek": 777,
+    "timeDay": 637,
+    "timeWeek": 778,
     "timeMonth": 758,
     "timeYear": 718,
     "dailyMinutesDown": {
@@ -40,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ml.schoolgram.io.ico",
     "slug": "ml-schoolgram-io",
     "status": "down",
-    "uptime": "58.67%",
+    "uptime": "58.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.02%",
+    "uptimeMonth": "51.53%",
     "uptimeYear": "66.91%",
-    "time": 180,
+    "time": 179,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 217,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-07-17": 860,
+      "2024-07-18": 74,
+      "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -177,8 +178,7 @@
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
-      "2023-07-20": 1440,
-      "2023-07-19": 1440
+      "2023-07-20": 1440
     }
   }
 ]
